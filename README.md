@@ -1,6 +1,6 @@
-### GHS Demangler
+### ghs-demangler-java
 
-A demangler implementation in Java for the GHS compiler used on Wii U.
+A demangler implementation in `Java` for the `GHS compiler` used on the `Nintendo Wii U`.
 
 ### Usage
 This is a command line application which can be used as follows:  
